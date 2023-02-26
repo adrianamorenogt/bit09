@@ -11,7 +11,7 @@ export const HomePage = () => {
           width={171}
           height={180}
           alt="171x180"
-          src="public\img\lago3.jpg"
+          src="\public\img\lago3.jpg"
         />
         <Figure.Caption className="text-name">
           Adriana Moreno Gutierrez
