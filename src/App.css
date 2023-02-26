@@ -1,0 +1,21 @@
+body{
+  font-family: 'sans-serif';
+  min-height: 100vh;
+  background: rgb(30,0,36);
+background: linear-gradient(90deg, rgba(30,0,36,0.11832946635730857) 0%, rgba(231,225,230,1) 44%, rgba(200,115,183,0.4918793503480279) 100%);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.mx-2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(168, 0, 79);
+}
+.text-center{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(168, 0, 79);
+}
+.text-name {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(0, 0, 0);
+}
